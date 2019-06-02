@@ -1,0 +1,6 @@
+<div *ngIf="router.url == '/'">
+  <app-landing></app-landing>
+</div>
+<div *ngIf="router.url !== '/'">
+  <router-outlet></router-outlet>
+</div>

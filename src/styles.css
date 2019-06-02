@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.quizz-try  {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+  height: 10%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
